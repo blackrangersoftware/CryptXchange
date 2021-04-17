@@ -16,7 +16,7 @@ Feel free to use the code for your own websites or web projects. If you like the
 
 ### How to install the crypto currency exchange (direct coin swap) PHP script?
 
-- **Prerequisite dependancies**: Full LAMP install and be sure to install php-curl, or all you will see is a white screen.
+- **Prerequisite dependencies**: Full LAMP install and be sure to install php-curl, or all you will see is a white screen.
 
 - **Step one**: Download all script files from the Github pages.
 
